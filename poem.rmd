@@ -18,6 +18,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+This saying good-bye on the edge of the dark  
+And cold to an orchard so young in the bark  
+Reminds me of all that can happen to harm  
+An orchard away at the end of the farm  
+All winter, cut off by a hill from the house.  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
